@@ -1,0 +1,17 @@
+C:\Users\djoni\source\repos\FillingStation\FillingStation\bin\Debug\FillingStation.exe.config
+C:\Users\djoni\source\repos\FillingStation\FillingStation\bin\Debug\FillingStation.exe
+C:\Users\djoni\source\repos\FillingStation\FillingStation\bin\Debug\FillingStation.pdb
+C:\Users\djoni\source\repos\FillingStation\FillingStation\bin\Debug\ClassLibr.dll
+C:\Users\djoni\source\repos\FillingStation\FillingStation\bin\Debug\ClassLibr.pdb
+C:\Users\djoni\source\repos\FillingStation\FillingStation\obj\Debug\FillingStation.csprojResolveAssemblyReference.cache
+C:\Users\djoni\source\repos\FillingStation\FillingStation\obj\Debug\MainWindow.g.cs
+C:\Users\djoni\source\repos\FillingStation\FillingStation\obj\Debug\App.g.cs
+C:\Users\djoni\source\repos\FillingStation\FillingStation\obj\Debug\FillingStation_MarkupCompile.cache
+C:\Users\djoni\source\repos\FillingStation\FillingStation\obj\Debug\FillingStation_MarkupCompile.lref
+C:\Users\djoni\source\repos\FillingStation\FillingStation\obj\Debug\MainWindow.baml
+C:\Users\djoni\source\repos\FillingStation\FillingStation\obj\Debug\FillingStation.g.resources
+C:\Users\djoni\source\repos\FillingStation\FillingStation\obj\Debug\FillingStation.Properties.Resources.resources
+C:\Users\djoni\source\repos\FillingStation\FillingStation\obj\Debug\FillingStation.csproj.GenerateResource.Cache
+C:\Users\djoni\source\repos\FillingStation\FillingStation\obj\Debug\FillingStation.csproj.CoreCompileInputs.cache
+C:\Users\djoni\source\repos\FillingStation\FillingStation\obj\Debug\FillingStation.exe
+C:\Users\djoni\source\repos\FillingStation\FillingStation\obj\Debug\FillingStation.pdb

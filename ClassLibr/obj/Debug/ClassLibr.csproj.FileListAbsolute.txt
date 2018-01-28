@@ -1,0 +1,6 @@
+C:\Users\djoni\source\repos\FillingStation\ClassLibr\bin\Debug\ClassLibr.dll
+C:\Users\djoni\source\repos\FillingStation\ClassLibr\bin\Debug\ClassLibr.pdb
+C:\Users\djoni\source\repos\FillingStation\ClassLibr\obj\Debug\ClassLibr.csprojResolveAssemblyReference.cache
+C:\Users\djoni\source\repos\FillingStation\ClassLibr\obj\Debug\ClassLibr.csproj.CoreCompileInputs.cache
+C:\Users\djoni\source\repos\FillingStation\ClassLibr\obj\Debug\ClassLibr.dll
+C:\Users\djoni\source\repos\FillingStation\ClassLibr\obj\Debug\ClassLibr.pdb
